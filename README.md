@@ -29,6 +29,8 @@ This project utilizes **Linear Regression** to predict the **Total Price** of a 
    cd your-repo-name
 2. vscode terminal
    python -m streamlit run salary.py
+
+Dataset - https://www.kaggle.com/api/v1/datasets/download/sebastianwillmann/beverage-sales
    
 📊 Model Training
 The dataset is preprocessed and split into training and testing sets.
